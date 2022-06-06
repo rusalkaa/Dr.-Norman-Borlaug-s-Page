@@ -1,0 +1,53 @@
+figure {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 280px;  
+}
+
+figcaption {
+    margin-top: 20px;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+    margin-bottom: 0;
+}
+
+#tribute-info {
+    background-color: rgb(243, 228, 226);
+    font-family:'Josefin Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+
+ul, #quote{
+    background-color: rgb(243, 228, 226);
+    margin-left: 450px;
+    line-height: 1.5;
+    padding-right: 550px;
+}    
+    
+#title {
+    background-color: rgb(243, 228, 226);
+    height: 50px;
+    margin-bottom: 15px; 
+    padding: 50px; 
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Gluten', cursive;
+}
+
+p {
+    margin-top: -50px;
+    text-align: center;
+    background-color: rgb(243, 228, 226);
+    font-family:'Josefin Sans', sans-serif;
+}
+
+li {
+    margin-bottom: 15px;
+}
